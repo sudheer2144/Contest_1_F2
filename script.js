@@ -67,12 +67,12 @@ let concatRes=arr.concat(brr);
 console.log(concatRes);
 }
 
-PrintDeveloperbyMap();
+// PrintDeveloperbyMap();
 
-PrintDeveloperbyForEach();
+// PrintDeveloperbyForEach();
 
-addData();
+// addData();
 
-removeAdmin();
+// removeAdmin();
 
-concatenateArray();
+// concatenateArray();
